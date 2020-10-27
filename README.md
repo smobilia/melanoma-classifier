@@ -9,8 +9,30 @@ The primary project goal is to develop a classifier that can detect instances of
 The secondary project goal is to get more experience working with PyTorch.
 
 ## Requirements
+These files were built with a Python environment using version 3.6.10.
+
+These files require the following python packages:
+tensorflow 1.9
+pandas 1.0.5
+numpy 1.19.1
+pillow 7.2.0
+pytorch 0.4.1
+scikit-learn 0.23.1
+matplotlib 3.2.2
+
+The Google Chrome CurlWget extension was also used to download the into Colab.
 
 ## How to Use These Files
+These files were run in Google Colab using a GPU.  The data was imported into Colab with the help of the Chrome CurlWget extension. The files were broken up into eight sections: 
+1) Import Necessary Python Packages 
+2) Download and Examine Data 
+3) Split and Transform Data 
+4) Format Data
+5) Create CNN
+6) Helper Functions
+7) Fit the Training Data to the Network
+8) Generate Test Data
+Running these sections in order should reproduce the results for a particular run.
 
 ## Data and Preprocessing
 

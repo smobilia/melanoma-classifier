@@ -32,6 +32,7 @@ These files were run in Google Colab using a GPU.  The data was imported into Co
 6) Helper Functions
 7) Fit the Training Data to the Network
 8) Generate Test Data
+
 Running these sections in order should reproduce the results for a particular run.
 
 ## Data and Preprocessing

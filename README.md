@@ -10,6 +10,8 @@ The secondary project goal is to get more experience working with PyTorch.
 
 ## Requirements
 
+## How to Use These Files
+
 ## Data and Preprocessing
 
 ## CNN Implementation
